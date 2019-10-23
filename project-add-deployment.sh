@@ -1,0 +1,1 @@
+go run main.go project deplyment --id 0cdf5dc0-f4d4-11e9-8c8d-354be7c07612 --depid local
