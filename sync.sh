@@ -1,0 +1,1 @@
+go run main.go project sync -p ~/Documents/james500 --id  97217760-fa3e-11e9-b756-5b7448fa9da0 -t 200

@@ -1,1 +1,1 @@
-go run main.go project bind -p /Users/james.cockbain@ibm.com/Documents/work/codewind/codewind/codewind-workspace/james -n jamesproject7 -l nodejs -t nodejs -d local
+go run main.go project bind -p /Users/james.cockbain@ibm.com/Documents/work/codewind/codewind/codewind-workspace/james -n jamesproject200 -l nodejs -t nodejs
