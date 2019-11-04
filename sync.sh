@@ -1,1 +1,1 @@
-go run main.go project sync -p ~/Documents/james500 --id  97217760-fa3e-11e9-b756-5b7448fa9da0 -t 200
+go run main.go project sync -p ~/Documents/work/codewind/codewind/codewind-workspace/jamestest --id 11dfeea0-fbed-11e9-890e-5d0cb2a1bc1b -t 200
