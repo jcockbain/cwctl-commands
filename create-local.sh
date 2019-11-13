@@ -1,1 +1,1 @@
-go run cmd/cli/main.go project create  -t nodejs ~/Documents/work/codewind/codewind/codewind-workspace/dave
+go run cmd/cli/main.go project create  -t go ~/Documents/work/codewind/codewind/codewind-workspace/dave

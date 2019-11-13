@@ -1,1 +1,1 @@
-go run main.go project bind -p /Users/james.cockbain@ibm.com/Documents/work/codewind/codewind/codewind-workspace/jamestest -n jamesprojecttest -l nodejs -t nodejs
+go run cmd/cli/main.go project bind -p /Users/james.cockbain@ibm.com/Documents/work/codewind/codewind/codewind-workspace/go-james -n james-go -l go -t go
