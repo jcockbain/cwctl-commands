@@ -1,1 +1,1 @@
-go run main.go project -u https://github.com/microclimate-dev2ops/nodeExpressTemplate Users/james.cockbain@ibm.com/Documents/work/codewind/codewind/codewind-workspace/james3
+go run cmd/cli/main.go project -u https://github.com/jcockbain96/nodeExpressTemplate Users/james.cockbain@ibm.com/Documents/workspace/james
